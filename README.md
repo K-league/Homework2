@@ -13,7 +13,7 @@ These items remind me of the HTML assigenment from HWK1:
 
 I need to begin by adding the bootstrap URL to my files, starting with index.html - the file I will use as my "home".
 Then, link my index.html to the stylesheet.
-Next, link the other documents to the index.html : contact and protfolio
+Next, link the other documents to the index.html : contact and Portfolio
 Repeat the link steps for contact and portfolio, adding the style sheet and linking to bootstrap
 
 Found a navbar with search included in Bootstrap, lets give that a go.

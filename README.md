@@ -26,6 +26,10 @@ Added a footer to each html document
 need to play with css now probs - edited contact.html to center box and remove unnecessary input boxes
     adjusted Message box by adding a <div> and naming it form-controla
 
-Adjust h1 headers 
+Adjust h1 headers
+
+Portfolio images and formatting:
+Activity 15 Instructor Layout has image files
+Container holds 
 
 

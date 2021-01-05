@@ -29,7 +29,7 @@ need to play with css now probs - edited contact.html to center box and remove u
 Adjust h1 headers
 
 Portfolio images and formatting:
-Activity 15 Instructor Layout has image files
-Container holds 
+Activity 15 "Instructor Layout" has image files.
+
 
 

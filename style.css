@@ -70,3 +70,6 @@ h1 {
 footer {
     text-align: center;
 }
+.container, .container-sm {
+    max-width: 500px;
+}
